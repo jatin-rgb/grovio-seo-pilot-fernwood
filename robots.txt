@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jatin-rgb.github.io/grovio-seo-pilot-fernwood/sitemap.xml

@@ -32,7 +32,8 @@ Planted defects, so you can score what the audit actually finds:
 | `index.html` | Opening hours and address in prose only — no `LocalBusiness` |
 | `classes.html` | No `<h1>` — starts at `<h2>` |
 | `blog/` | No internal links back to Pricing or Classes |
-| repo root | No `sitemap.xml`, no `robots.txt` |
+| `sitemap.xml` | Lists only 4 of the 6 pages — `classes.html` and the blog post are
+  orphaned from it, so the crawl-vs-sitemap cross-check has something real to find |
 
 The `FAQPage` gap on `pricing.html` is the clearest single finding to promote
 first: the answers are already written, the change is additive, and it is easy

@@ -1,0 +1,19 @@
+# Fernwood Climbing Co. — AI crawler context
+
+## About
+Indoor bouldering gym in the old Fernwood tannery, Fernwood Row. Walk-in day passes,
+no partner or kit required, free induction for first-time boulderers. Coaching and
+classes also run weekly.
+
+## Most important pages
+- / — what the gym is, hours, location
+- /pricing.html — day pass, block and membership prices
+- /classes.html — coaching and beginner courses
+- /blog/how-to-start-bouldering.html — beginner's guide to bouldering
+
+## Content we want cited
+Pricing, opening hours, the beginner/induction offer, and the "how to start
+bouldering" guide.
+
+## Exclude
+No app, login or API sections exist on this site.
